@@ -6,6 +6,7 @@ module alu (
     always_comb begin
         case (op)
             2'b00: result = a + b; // ADD operation
+            2'b01: result = a - b; // SUB operation
             default: result = 32'b0;
         endcase
     end
