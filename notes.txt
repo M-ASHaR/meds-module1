@@ -3,4 +3,5 @@ Week 1:
 Day1: Ubuntu, WSL Setup
 Day2: BAsh scripting
 Day3: Git setup
+Day4: checking pull request
 
